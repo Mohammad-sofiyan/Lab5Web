@@ -132,7 +132,7 @@ Menggunakan Function dengan body onload di javascript seperti gambar di atas.
 # DASAR PEMROGRAMANDI JAVASCRIPT 
 ## 6. OPRASI DASAR ARITMATIKA 
 ## TAMPILAN DIBROWSER NYA!
-![OPRASIDASARARITMATIKA](IMG/langkah.6.png)
+![OPRASIDASARARITMATIKA](img/langkah.6.png)
 **Penjelasan** 
 
 Oprasi Dasar Aritmatika dlam **javascript** seperti contoh gambar di atas. 
